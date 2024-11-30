@@ -27,7 +27,7 @@ downloads/
 .vscode/
 *.swp
 *.swo
-
+cookies.txt
 # Operating System
 .DS_Store
 Thumbs.db
